@@ -1,0 +1,6 @@
+{
+  "name": "Plateforme de Cours PDF Interactive",
+  "description": "Plateforme de cours interactive pour l'apprentissage du français, avec intégration PDF, système de dessin/surlignage, lecteur audio dynamique, traducteur MyMemory et panneau de corrections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
